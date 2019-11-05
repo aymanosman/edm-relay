@@ -14,6 +14,9 @@
   ],
   "author": "Trevor Scott",
   "license": "MIT",
+  "engines": {
+    "node": "10.x"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.1.0",
